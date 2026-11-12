@@ -1,0 +1,1454 @@
+{
+  "settings": {
+    "store_name": "VOLT.CO",
+    "store_contact_email": "hello@voltco.example",
+    "store_contact_phone": "+2348000000106",
+    "store_origin_address": "17 Obafemi Awolowo Way, Ikeja",
+    "store_origin_city": "Lagos",
+    "store_origin_state": "Lagos",
+    "default_product_rating": "4.5",
+    "storefront_brands": "Voltix, Brightline, Kuro, Aera, Novus"
+  },
+  "zones": [
+    {
+      "name": "Lagos",
+      "states": [
+        "Lagos"
+      ],
+      "fee": 2500,
+      "estimated_days": "1 to 2 days",
+      "items_included": 3,
+      "extra_item_fee": 300,
+      "heavy_item_fee": 5000
+    },
+    {
+      "name": "South West",
+      "states": [
+        "Ogun",
+        "Oyo",
+        "Osun",
+        "Ondo",
+        "Ekiti"
+      ],
+      "fee": 3500,
+      "estimated_days": "2 to 3 days",
+      "items_included": 3,
+      "extra_item_fee": 400,
+      "heavy_item_fee": 7500
+    },
+    {
+      "name": "Abuja and Port Harcourt",
+      "states": [
+        "FCT",
+        "Rivers"
+      ],
+      "fee": 4500,
+      "estimated_days": "2 to 4 days",
+      "items_included": 3,
+      "extra_item_fee": 500,
+      "heavy_item_fee": 9000
+    },
+    {
+      "name": "Rest of Nigeria",
+      "states": [
+        "*"
+      ],
+      "fee": 6000,
+      "estimated_days": "3 to 6 days",
+      "items_included": 3,
+      "extra_item_fee": 600,
+      "heavy_item_fee": 12000
+    }
+  ],
+  "promotions": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "min_order": 0,
+      "max_discount": 20000,
+      "description": "10% off your first order",
+      "show_on_homepage": true
+    },
+    {
+      "code": "SAVE10K",
+      "type": "fixed",
+      "value": 10000,
+      "min_order": 200000,
+      "max_discount": null,
+      "description": "₦10,000 off orders from ₦200,000",
+      "show_on_homepage": false
+    },
+    {
+      "code": "POWERUP5",
+      "type": "percentage",
+      "value": 5,
+      "min_order": 30000,
+      "max_discount": 15000,
+      "description": "5% off orders from ₦30,000",
+      "show_on_homepage": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fans & Cooling",
+      "slug": "fans-cooling",
+      "description": "Standing fans, table fans and air conditioners.",
+      "image": "cat-fans-cooling.webp"
+    },
+    {
+      "name": "Kitchen Appliances",
+      "slug": "kitchen-appliances",
+      "description": "Kettles, blenders, microwaves and cookers.",
+      "image": "cat-kitchen-appliances.webp"
+    },
+    {
+      "name": "TVs & Audio",
+      "slug": "tvs-audio",
+      "description": "Televisions, speakers and soundbars.",
+      "image": "cat-tvs-audio.webp"
+    },
+    {
+      "name": "Lighting",
+      "slug": "lighting",
+      "description": "Bulbs and lanterns for the home.",
+      "image": "cat-lighting.webp"
+    },
+    {
+      "name": "Power & Cables",
+      "slug": "power-cables",
+      "description": "Extension boxes, stabilisers and inverters.",
+      "image": "cat-power-cables.webp"
+    },
+    {
+      "name": "Home Appliances",
+      "slug": "home-appliances",
+      "description": "Irons, washing machines and freezers.",
+      "image": "cat-home-appliances.webp"
+    }
+  ],
+  "banners": [
+    {
+      "title": "BRIGHT DEALS ON HOME POWER",
+      "subtitle": "Inverters, stabilisers and extension boxes at fair prices, with warranty on every item.",
+      "cta_text": "Shop power",
+      "cta_url": "/category?cat=power-cables",
+      "image": "banner-1.webp"
+    },
+    {
+      "title": "STAY COOL THIS SEASON",
+      "subtitle": "Standing fans and air conditioners delivered to your door in Lagos and beyond.",
+      "cta_text": "Shop cooling",
+      "cta_url": "/category?cat=fans-cooling",
+      "image": "banner-2.webp"
+    },
+    {
+      "title": "UPGRADE YOUR SITTING ROOM",
+      "subtitle": "Smart TVs, soundbars and speakers for movie nights and match days.",
+      "cta_text": "Shop TVs and audio",
+      "cta_url": "/category?cat=tvs-audio",
+      "image": "banner-3.webp"
+    }
+  ],
+  "products": [
+    {
+      "name": "Voltix 18 inch Standing Fan",
+      "slug": "voltix-18-inch-standing-fan",
+      "category": "fans-cooling",
+      "description": "A strong standing fan with three speeds and a height you can adjust. It sits steady on a round base and runs quietly enough for the bedroom at night.",
+      "price": 45000,
+      "original_price": null,
+      "style": "Voltix",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 162,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "65W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Blade size",
+          "value": "18 inch"
+        },
+        {
+          "name": "Noise level",
+          "value": "Below 55dB"
+        },
+        {
+          "name": "Dimensions",
+          "value": "46 x 46 x 130cm"
+        },
+        {
+          "name": "Plug type",
+          "value": "UK 3 pin"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "18 inch",
+          "option2": "Black",
+          "hex": "#1C1C1C",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "18 inch",
+          "option2": "White",
+          "hex": "#F5F5F5",
+          "price": null,
+          "stock": 24
+        },
+        {
+          "option1": "18 inch",
+          "option2": "Red",
+          "hex": "#C0392B",
+          "price": 48000,
+          "stock": 0
+        }
+      ],
+      "images": [
+        "p-voltix-18-inch-standing-fan-1.webp",
+        "p-voltix-18-inch-standing-fan-2.webp"
+      ]
+    },
+    {
+      "name": "Aera 16 inch Rechargeable Table Fan",
+      "slug": "aera-16-inch-rechargeable-table-fan",
+      "category": "fans-cooling",
+      "description": "A table fan with a built in battery, so it keeps going when the power goes off. It gives around six hours on a full charge.",
+      "price": 38000,
+      "original_price": null,
+      "style": "Aera",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 88,
+      "warranty": "6 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "30W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Battery",
+          "value": "4500mAh, lithium"
+        },
+        {
+          "name": "Run time",
+          "value": "Up to 6 hours"
+        },
+        {
+          "name": "Weight",
+          "value": "3.2kg"
+        },
+        {
+          "name": "Plug type",
+          "value": "UK 3 pin"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "16 inch",
+          "option2": "White",
+          "hex": "#F5F5F5",
+          "price": null,
+          "stock": 18
+        },
+        {
+          "option1": "16 inch",
+          "option2": "Red",
+          "hex": "#C0392B",
+          "price": null,
+          "stock": 3
+        }
+      ],
+      "images": [
+        "p-aera-16-inch-rechargeable-table-fan-1.webp"
+      ]
+    },
+    {
+      "name": "Kuro Split Air Conditioner",
+      "slug": "kuro-split-air-conditioner",
+      "category": "fans-cooling",
+      "description": "A split unit that suits a bedroom or a small office. It cools quickly and comes with a remote and a timer.",
+      "price": 320000,
+      "original_price": null,
+      "style": "Kuro",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 41,
+      "warranty": "24 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "900W for 1HP"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Capacity",
+          "value": "9000 BTU for 1HP"
+        },
+        {
+          "name": "Energy rating",
+          "value": "Class A"
+        },
+        {
+          "name": "Noise level",
+          "value": "Below 42dB"
+        },
+        {
+          "name": "Weight",
+          "value": "32kg for 1HP"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "1HP",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 12
+        },
+        {
+          "option1": "1.5HP",
+          "option2": "",
+          "hex": "#000000",
+          "price": 395000,
+          "stock": 9
+        },
+        {
+          "option1": "2HP",
+          "option2": "",
+          "hex": "#000000",
+          "price": 520000,
+          "stock": 4
+        }
+      ],
+      "images": [
+        "p-kuro-split-air-conditioner-1.webp",
+        "p-kuro-split-air-conditioner-2.webp"
+      ]
+    },
+    {
+      "name": "Novus Inverter Air Conditioner",
+      "slug": "novus-inverter-air-conditioner",
+      "category": "fans-cooling",
+      "description": "An inverter air conditioner that uses less power once the room is cool. Good for a living room that gets a lot of sun.",
+      "price": 580000,
+      "original_price": null,
+      "style": "Novus",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 27,
+      "warranty": "24 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "1100W for 1.5HP"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Capacity",
+          "value": "12000 BTU for 1.5HP"
+        },
+        {
+          "name": "Energy rating",
+          "value": "Class A++"
+        },
+        {
+          "name": "Noise level",
+          "value": "Below 38dB"
+        },
+        {
+          "name": "In the box",
+          "value": "Indoor unit, outdoor unit, remote"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "1.5HP",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 8
+        },
+        {
+          "option1": "2HP",
+          "option2": "",
+          "hex": "#000000",
+          "price": 780000,
+          "stock": 5
+        }
+      ],
+      "images": [
+        "p-novus-inverter-air-conditioner-1.webp"
+      ]
+    },
+    {
+      "name": "Brightline 1.8L Electric Kettle",
+      "slug": "brightline-1-8l-electric-kettle",
+      "category": "kitchen-appliances",
+      "description": "A fast kettle with an auto switch off when it boils. The lid opens with one press and the base turns for left or right hand use.",
+      "price": 18000,
+      "original_price": 24000,
+      "style": "Brightline",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.5,
+      "units_sold": 121,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "1800W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Capacity",
+          "value": "1.8L"
+        },
+        {
+          "name": "Body",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Cable length",
+          "value": "75cm"
+        },
+        {
+          "name": "Plug type",
+          "value": "UK 3 pin"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "1.8L",
+          "option2": "Silver",
+          "hex": "#C0C0C0",
+          "price": null,
+          "stock": 25
+        },
+        {
+          "option1": "1.8L",
+          "option2": "Black",
+          "hex": "#1C1C1C",
+          "price": null,
+          "stock": 14
+        },
+        {
+          "option1": "1.8L",
+          "option2": "Red",
+          "hex": "#C0392B",
+          "price": null,
+          "stock": 2
+        }
+      ],
+      "images": [
+        "p-brightline-1-8l-electric-kettle-1.webp"
+      ]
+    },
+    {
+      "name": "Kuro 1.5L Glass Blender",
+      "slug": "kuro-1-5l-glass-blender",
+      "category": "kitchen-appliances",
+      "description": "A blender with a thick glass jar and a sharp steel blade. It handles smoothies, soups and pepper for stew.",
+      "price": 32000,
+      "original_price": null,
+      "style": "Kuro",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 74,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "500W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Capacity",
+          "value": "1.5L"
+        },
+        {
+          "name": "Speeds",
+          "value": "2 plus pulse"
+        },
+        {
+          "name": "Weight",
+          "value": "3.4kg"
+        },
+        {
+          "name": "In the box",
+          "value": "Jar, lid, base, grinder cup"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "1.5L",
+          "option2": "Black",
+          "hex": "#1C1C1C",
+          "price": null,
+          "stock": 20
+        },
+        {
+          "option1": "1.5L",
+          "option2": "Red",
+          "hex": "#C0392B",
+          "price": null,
+          "stock": 11
+        }
+      ],
+      "images": [
+        "p-kuro-1-5l-glass-blender-1.webp",
+        "p-kuro-1-5l-glass-blender-2.webp"
+      ]
+    },
+    {
+      "name": "Novus Digital Microwave",
+      "slug": "novus-digital-microwave",
+      "category": "kitchen-appliances",
+      "description": "A compact microwave with a digital panel and six power levels. Fits on most kitchen counters and reheats food evenly.",
+      "price": 72000,
+      "original_price": 85000,
+      "style": "Novus",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.4,
+      "units_sold": 52,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "700W for 20L"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Capacity",
+          "value": "20L or 25L"
+        },
+        {
+          "name": "Controls",
+          "value": "Digital, 6 power levels"
+        },
+        {
+          "name": "Dimensions",
+          "value": "44 x 33 x 26cm for 20L"
+        },
+        {
+          "name": "Weight",
+          "value": "10.5kg for 20L"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "20L",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 15
+        },
+        {
+          "option1": "25L",
+          "option2": "",
+          "hex": "#000000",
+          "price": 89000,
+          "stock": 10
+        }
+      ],
+      "images": [
+        "p-novus-digital-microwave-1.webp"
+      ]
+    },
+    {
+      "name": "Aera 4 Burner Standing Gas Cooker",
+      "slug": "aera-4-burner-standing-gas-cooker",
+      "category": "kitchen-appliances",
+      "description": "A standing cooker with four gas burners and a full size oven. It has an auto ignition and a glass lid over the hob.",
+      "price": 165000,
+      "original_price": null,
+      "style": "Aera",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 19,
+      "warranty": "12 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Burners",
+          "value": "4 gas burners"
+        },
+        {
+          "name": "Oven",
+          "value": "60L, gas"
+        },
+        {
+          "name": "Ignition",
+          "value": "Auto"
+        },
+        {
+          "name": "Finish",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Dimensions",
+          "value": "60 x 60 x 85cm"
+        },
+        {
+          "name": "Weight",
+          "value": "34kg"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 7
+        }
+      ],
+      "images": [
+        "p-aera-4-burner-standing-gas-cooker-1.webp"
+      ]
+    },
+    {
+      "name": "Voltix Smart TV",
+      "slug": "voltix-smart-tv",
+      "category": "tvs-audio",
+      "description": "A Full HD smart TV with built in apps and three HDMI ports. The picture stays clear from the side, so the whole sitting room can watch.",
+      "price": 380000,
+      "original_price": null,
+      "style": "Voltix",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 64,
+      "warranty": "24 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Screen",
+          "value": "43 inch, Full HD, LED"
+        },
+        {
+          "name": "Power",
+          "value": "75W for 43 inch"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Ports",
+          "value": "3 HDMI, 2 USB"
+        },
+        {
+          "name": "Smart features",
+          "value": "Wi-Fi, built in apps"
+        },
+        {
+          "name": "Weight",
+          "value": "7.8kg for 43 inch"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "43 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 14
+        },
+        {
+          "option1": "55 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": 640000,
+          "stock": 6
+        }
+      ],
+      "images": [
+        "p-voltix-smart-tv-1.webp",
+        "p-voltix-smart-tv-2.webp"
+      ]
+    },
+    {
+      "name": "Kuro 32 inch LED TV",
+      "slug": "kuro-32-inch-led-tv",
+      "category": "tvs-audio",
+      "description": "A small LED TV for a bedroom or a shop counter. It has two HDMI ports and a built in digital tuner.",
+      "price": 185000,
+      "original_price": null,
+      "style": "Kuro",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 97,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Screen",
+          "value": "32 inch, HD, LED"
+        },
+        {
+          "name": "Power",
+          "value": "40W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Ports",
+          "value": "2 HDMI, 1 USB"
+        },
+        {
+          "name": "Tuner",
+          "value": "Digital, built in"
+        },
+        {
+          "name": "Weight",
+          "value": "3.9kg"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "32 inch",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 22
+        }
+      ],
+      "images": [
+        "p-kuro-32-inch-led-tv-1.webp"
+      ]
+    },
+    {
+      "name": "Novus Portable Bluetooth Speaker",
+      "slug": "novus-portable-bluetooth-speaker",
+      "category": "tvs-audio",
+      "description": "A splash resistant speaker that fits in a bag. It plays for about ten hours and can pair with a second speaker.",
+      "price": 42000,
+      "original_price": 58000,
+      "style": "Novus",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.5,
+      "units_sold": 143,
+      "warranty": "6 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "20W"
+        },
+        {
+          "name": "Battery",
+          "value": "Up to 10 hours"
+        },
+        {
+          "name": "Connection",
+          "value": "Bluetooth 5.0"
+        },
+        {
+          "name": "Water resistance",
+          "value": "IPX5"
+        },
+        {
+          "name": "Charging",
+          "value": "USB C"
+        },
+        {
+          "name": "In the box",
+          "value": "Speaker, cable, strap"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "Black",
+          "hex": "#1C1C1C",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "",
+          "option2": "Red",
+          "hex": "#C0392B",
+          "price": null,
+          "stock": 4
+        },
+        {
+          "option1": "",
+          "option2": "Silver",
+          "hex": "#C0C0C0",
+          "price": null,
+          "stock": 16
+        }
+      ],
+      "images": [
+        "p-novus-portable-bluetooth-speaker-1.webp"
+      ]
+    },
+    {
+      "name": "Brightline 2.1 Soundbar",
+      "slug": "brightline-2-1-soundbar",
+      "category": "tvs-audio",
+      "description": "A soundbar with a separate bass box. It connects to your TV by cable or Bluetooth and makes dialogue easier to hear.",
+      "price": 120000,
+      "original_price": 145000,
+      "style": "Brightline",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 35,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "120W"
+        },
+        {
+          "name": "Channels",
+          "value": "2.1"
+        },
+        {
+          "name": "Connection",
+          "value": "HDMI ARC, optical, Bluetooth"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Dimensions",
+          "value": "90 x 8 x 6cm"
+        },
+        {
+          "name": "In the box",
+          "value": "Soundbar, bass box, remote"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "Black",
+          "hex": "#1C1C1C",
+          "price": null,
+          "stock": 12
+        },
+        {
+          "option1": "",
+          "option2": "Silver",
+          "hex": "#C0C0C0",
+          "price": null,
+          "stock": 7
+        }
+      ],
+      "images": [
+        "p-brightline-2-1-soundbar-1.webp"
+      ]
+    },
+    {
+      "name": "Brightline LED Bulb",
+      "slug": "brightline-led-bulb",
+      "category": "lighting",
+      "description": "An energy saving LED bulb that gives a warm white light. It fits the standard screw cap and lasts for years of normal use.",
+      "price": 1500,
+      "original_price": 2200,
+      "style": "Brightline",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.3,
+      "units_sold": 180,
+      "warranty": "6 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "9W, 12W or 15W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Light colour",
+          "value": "Warm white, 3000K"
+        },
+        {
+          "name": "Brightness",
+          "value": "810 lumens for 9W"
+        },
+        {
+          "name": "Cap type",
+          "value": "E27 screw"
+        },
+        {
+          "name": "Rated life",
+          "value": "15000 hours"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "9W",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 60
+        },
+        {
+          "option1": "12W",
+          "option2": "",
+          "hex": "#000000",
+          "price": 2000,
+          "stock": 45
+        },
+        {
+          "option1": "15W",
+          "option2": "",
+          "hex": "#000000",
+          "price": 2600,
+          "stock": 3
+        }
+      ],
+      "images": [
+        "p-brightline-led-bulb-1.webp"
+      ]
+    },
+    {
+      "name": "Aera Rechargeable Emergency Lantern",
+      "slug": "aera-rechargeable-emergency-lantern",
+      "category": "lighting",
+      "description": "A bright lantern for nights without light. It has two brightness levels and a handle for carrying or hanging.",
+      "price": 9500,
+      "original_price": null,
+      "style": "Aera",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 69,
+      "warranty": "6 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "12W"
+        },
+        {
+          "name": "Battery",
+          "value": "4000mAh, lithium"
+        },
+        {
+          "name": "Run time",
+          "value": "Up to 8 hours"
+        },
+        {
+          "name": "Modes",
+          "value": "High, low"
+        },
+        {
+          "name": "Charging",
+          "value": "Mains or USB"
+        },
+        {
+          "name": "Weight",
+          "value": "650g"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 26
+        }
+      ],
+      "images": [
+        "p-aera-rechargeable-emergency-lantern-1.webp"
+      ]
+    },
+    {
+      "name": "Voltix 5 Way Extension Box",
+      "slug": "voltix-5-way-extension-box",
+      "category": "power-cables",
+      "description": "An extension box with five sockets and a switch with a light. It has surge protection and a fuse for safety.",
+      "price": 8500,
+      "original_price": 12000,
+      "style": "Voltix",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": 4.6,
+      "units_sold": 155,
+      "warranty": "6 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Sockets",
+          "value": "5 way, individual switches"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Rating",
+          "value": "13A, 3250W"
+        },
+        {
+          "name": "Cable length",
+          "value": "3 metres or 5 metres"
+        },
+        {
+          "name": "Plug type",
+          "value": "UK 3 pin"
+        },
+        {
+          "name": "Protection",
+          "value": "Surge, fused"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "3 metres",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "5 metres",
+          "option2": "",
+          "hex": "#000000",
+          "price": 11500,
+          "stock": 18
+        }
+      ],
+      "images": [
+        "p-voltix-5-way-extension-box-1.webp"
+      ]
+    },
+    {
+      "name": "Kuro Voltage Stabiliser",
+      "slug": "kuro-voltage-stabiliser",
+      "category": "power-cables",
+      "description": "A stabiliser that keeps the voltage steady for your fridge, TV and other equipment. It shows the input and output voltage on a display.",
+      "price": 38000,
+      "original_price": null,
+      "style": "Kuro",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.4,
+      "units_sold": 58,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Capacity",
+          "value": "1.5kVA or 2.5kVA"
+        },
+        {
+          "name": "Input range",
+          "value": "140 to 260V"
+        },
+        {
+          "name": "Output",
+          "value": "220V, 50Hz"
+        },
+        {
+          "name": "Display",
+          "value": "Digital voltmeter"
+        },
+        {
+          "name": "Cable length",
+          "value": "1.5 metres"
+        },
+        {
+          "name": "Plug type",
+          "value": "UK 3 pin"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "1.5kVA",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 15
+        },
+        {
+          "option1": "2.5kVA",
+          "option2": "",
+          "hex": "#000000",
+          "price": 52000,
+          "stock": 9
+        }
+      ],
+      "images": [
+        "p-kuro-voltage-stabiliser-1.webp"
+      ]
+    },
+    {
+      "name": "Novus Home Inverter",
+      "slug": "novus-home-inverter",
+      "category": "power-cables",
+      "description": "A home inverter that switches on when the grid goes off. It works with one or two batteries and has a mains charger built in.",
+      "price": 245000,
+      "original_price": null,
+      "style": "Novus",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 33,
+      "warranty": "24 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Capacity",
+          "value": "1.5kVA or 2.5kVA"
+        },
+        {
+          "name": "Battery",
+          "value": "12V, one or two"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Output",
+          "value": "Pure sine wave"
+        },
+        {
+          "name": "Transfer time",
+          "value": "Under 10ms"
+        },
+        {
+          "name": "Weight",
+          "value": "11kg for 1.5kVA"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "1.5kVA",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 10
+        },
+        {
+          "option1": "2.5kVA",
+          "option2": "",
+          "hex": "#000000",
+          "price": 420000,
+          "stock": 5
+        }
+      ],
+      "images": [
+        "p-novus-home-inverter-1.webp",
+        "p-novus-home-inverter-2.webp"
+      ]
+    },
+    {
+      "name": "Aera Steam Iron",
+      "slug": "aera-steam-iron",
+      "category": "home-appliances",
+      "description": "A steam iron with a non stick plate and a water tank you can see through. It heats up in about a minute.",
+      "price": 85000,
+      "original_price": 98000,
+      "style": "Aera",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 76,
+      "warranty": "12 months warranty",
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Power",
+          "value": "2200W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Water tank",
+          "value": "300ml"
+        },
+        {
+          "name": "Soleplate",
+          "value": "Non stick ceramic"
+        },
+        {
+          "name": "Cable length",
+          "value": "2 metres"
+        },
+        {
+          "name": "Plug type",
+          "value": "UK 3 pin"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "White",
+          "hex": "#F5F5F5",
+          "price": null,
+          "stock": 19
+        },
+        {
+          "option1": "",
+          "option2": "Black",
+          "hex": "#1C1C1C",
+          "price": null,
+          "stock": 8
+        }
+      ],
+      "images": [
+        "p-aera-steam-iron-1.webp"
+      ]
+    },
+    {
+      "name": "Voltix Top Load Washing Machine",
+      "slug": "voltix-top-load-washing-machine",
+      "category": "home-appliances",
+      "description": "A top loading washing machine with a wash and a spin tub. It has a lint filter and a timer for each cycle.",
+      "price": 245000,
+      "original_price": null,
+      "style": "Voltix",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.5,
+      "units_sold": 28,
+      "warranty": "24 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Capacity",
+          "value": "5kg, 7kg or 8kg"
+        },
+        {
+          "name": "Power",
+          "value": "450W"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Type",
+          "value": "Twin tub, top load"
+        },
+        {
+          "name": "Dimensions",
+          "value": "80 x 46 x 90cm"
+        },
+        {
+          "name": "Weight",
+          "value": "25kg for 7kg"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "5kg",
+          "option2": "",
+          "hex": "#000000",
+          "price": 195000,
+          "stock": 6
+        },
+        {
+          "option1": "7kg",
+          "option2": "",
+          "hex": "#000000",
+          "price": 245000,
+          "stock": 10
+        },
+        {
+          "option1": "8kg",
+          "option2": "",
+          "hex": "#000000",
+          "price": 295000,
+          "stock": 4
+        }
+      ],
+      "images": [
+        "p-voltix-top-load-washing-machine-1.webp",
+        "p-voltix-top-load-washing-machine-2.webp"
+      ]
+    },
+    {
+      "name": "Novus Chest Freezer",
+      "slug": "novus-chest-freezer",
+      "category": "home-appliances",
+      "description": "A chest freezer for stocking up on meat, fish and drinks. It has a lockable lid and a basket inside. It keeps food cold for hours when the power is off.",
+      "price": 360000,
+      "original_price": null,
+      "style": "Novus",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 22,
+      "warranty": "24 months warranty",
+      "heavy": true,
+      "specifications": [
+        {
+          "name": "Capacity",
+          "value": "100L or 200L"
+        },
+        {
+          "name": "Power",
+          "value": "110W for 100L"
+        },
+        {
+          "name": "Voltage",
+          "value": "220 to 240V, 50Hz"
+        },
+        {
+          "name": "Energy rating",
+          "value": "Class A+"
+        },
+        {
+          "name": "Dimensions",
+          "value": "80 x 55 x 85cm for 100L"
+        },
+        {
+          "name": "Weight",
+          "value": "32kg for 100L"
+        }
+      ],
+      "variants": [
+        {
+          "option1": "100L",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 9
+        },
+        {
+          "option1": "200L",
+          "option2": "",
+          "hex": "#000000",
+          "price": 620000,
+          "stock": 0
+        }
+      ],
+      "images": [
+        "p-novus-chest-freezer-1.webp"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "product": "voltix-18-inch-standing-fan",
+      "name": "Chidi O.",
+      "rating": 5,
+      "title": "Quiet at night",
+      "body": "Bought it for the bedroom. Three speeds and I only need the lowest one. Easy to put together."
+    },
+    {
+      "product": "kuro-split-air-conditioner",
+      "name": "Tunde B.",
+      "rating": 5,
+      "title": "Cools fast",
+      "body": "The installer came the next day. The room is cold in about ten minutes. Bills are fine so far."
+    },
+    {
+      "product": "kuro-split-air-conditioner",
+      "name": "Amaka E.",
+      "rating": 4,
+      "title": "Good unit",
+      "body": "Works well. The remote is a bit basic but the cooling is strong."
+    },
+    {
+      "product": "voltix-smart-tv",
+      "name": "Zainab M.",
+      "rating": 5,
+      "title": "Clear picture",
+      "body": "Setup took five minutes. Apps load quickly and the sound is fine for our small parlour."
+    },
+    {
+      "product": "novus-portable-bluetooth-speaker",
+      "name": "Ifeanyi N.",
+      "rating": 4,
+      "title": "Loud for its size",
+      "body": "Took it to a beach day and it kept going all afternoon. Bass is not deep but it is clear."
+    },
+    {
+      "product": "brightline-1-8l-electric-kettle",
+      "name": "Bisi A.",
+      "rating": 5,
+      "title": "Boils in no time",
+      "body": "Switches off by itself and the lid is easy to open. Using it every morning."
+    },
+    {
+      "product": "novus-home-inverter",
+      "name": "Emeka U.",
+      "rating": 5,
+      "title": "Lights stay on",
+      "body": "Fitted with two batteries. The change over is so fast my laptop does not even blink."
+    },
+    {
+      "product": "voltix-top-load-washing-machine",
+      "name": "Halima S.",
+      "rating": 4,
+      "title": "Does the job",
+      "body": "Washes well and the spin tub dries clothes fast. It is a bit noisy on spin."
+    },
+    {
+      "product": "voltix-5-way-extension-box",
+      "name": "Segun K.",
+      "rating": 3,
+      "title": "Fine but short",
+      "body": "Works well and the switches are handy. I wish I had picked the longer cable."
+    },
+    {
+      "product": "kuro-1-5l-glass-blender",
+      "name": "Ngozi P.",
+      "rating": 5,
+      "title": "Good for pepper",
+      "body": "Blends tomatoes and pepper smoothly and the glass jar feels solid."
+    }
+  ]
+}

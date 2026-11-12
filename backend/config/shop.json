@@ -1,0 +1,111 @@
+{
+  "key": "voltco",
+  "name": "VOLT.CO",
+  "kind": "online electricals and electronics store",
+  "title": "VOLT.CO | Electricals and Electronics With Warranty",
+  "description": "Fans, air conditioners, kitchen appliances, TVs, lighting and power products, every one with a warranty and delivered across Nigeria.",
+  "tagline": "Electricals and electronics with warranty, delivered across Nigeria.",
+  "hero": {
+    "title": "POWER UP YOUR HOME",
+    "subtitle": "Fans, air conditioners, kitchen appliances, TVs and more. Compare the full specifications, pay safely and track your delivery to the door.",
+    "cta": "Shop Now",
+    "image": "/images/hero/hero.webp",
+    "cutout": false
+  },
+  "theme": {
+    "accent": "#1D4ED8",
+    "accentHover": "#1E40AF",
+    "accentInk": "#ffffff",
+    "surface": "#EEF2F9",
+    "card": "#F1F4F8",
+    "hero": "#EEF3FA"
+  },
+  "option1": {
+    "label": "Model",
+    "plural": "Models",
+    "none": "Standard",
+    "choices": [
+      "16 inch",
+      "18 inch",
+      "32 inch",
+      "43 inch",
+      "55 inch",
+      "1HP",
+      "1.5HP",
+      "2HP",
+      "1.5L",
+      "1.8L",
+      "20L",
+      "25L",
+      "5kg",
+      "7kg",
+      "8kg",
+      "100L",
+      "200L",
+      "9W",
+      "12W",
+      "15W",
+      "3 metres",
+      "5 metres",
+      "1.5kVA",
+      "2.5kVA"
+    ],
+    "help": ""
+  },
+  "option2": {
+    "label": "Colour",
+    "plural": "Colours",
+    "none": "Default",
+    "swatch": true,
+    "placeholder": "e.g. Black"
+  },
+  "style": {
+    "enabled": true,
+    "label": "Brand",
+    "plural": "Brands",
+    "short": "Brand",
+    "browseTitle": "SHOP BY BRAND",
+    "values": [
+      "Voltix",
+      "Brightline",
+      "Kuro",
+      "Aera",
+      "Novus"
+    ],
+    "images": {}
+  },
+  "specs": {
+    "label": "Specifications",
+    "suggested": [
+      "Power",
+      "Voltage",
+      "Capacity",
+      "Dimensions",
+      "Weight",
+      "In the box"
+    ]
+  },
+  "features": {
+    "warranty": true,
+    "heavyDelivery": true,
+    "ageCheck": false
+  },
+  "ageCheck": {
+    "minAge": 18,
+    "categories": []
+  },
+  "wording": {
+    "featured": "FEATURED",
+    "newArrivals": "NEW ARRIVALS",
+    "topSelling": "TOP SELLING",
+    "categoriesEyebrow": "Shop by Department",
+    "categoriesTitle": "EXPLORE BY CATEGORY",
+    "categoriesCta": "Browse All Collections",
+    "emptyCart": "Explore our fans, appliances and electronics and find what your home needs.",
+    "contactIntro": "Questions about an order, a product, a warranty or a return? Reach us using the details below.",
+    "searchExampleShort": "fan",
+    "searchExampleLong": "43 inch smart tv",
+    "descriptionHint": "What it does, key features, what is in the box…",
+    "categoryHint": "/category?cat=fans-cooling"
+  }
+}
