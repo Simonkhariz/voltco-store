@@ -50,7 +50,8 @@
       "1.5kVA",
       "2.5kVA"
     ],
-    "help": ""
+    "help": "",
+    "helpByCategory": {}
   },
   "option2": {
     "label": "Colour",
@@ -64,6 +65,7 @@
     "label": "Brand",
     "plural": "Brands",
     "short": "Brand",
+    "heading": "{value}",
     "browseTitle": "SHOP BY BRAND",
     "values": [
       "Voltix",
