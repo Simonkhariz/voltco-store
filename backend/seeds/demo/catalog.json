@@ -94,37 +94,37 @@
       "name": "Fans & Cooling",
       "slug": "fans-cooling",
       "description": "Standing fans, table fans and air conditioners.",
-      "image": "cat-fans-cooling.webp"
+      "image": "https://images.unsplash.com/photo-1559719740-f4d59cf117cb?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8c3RhbmRpbmclMjBmYW58ZW58MXx8fHwxNzk0NDU2NDc1fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Kitchen Appliances",
       "slug": "kitchen-appliances",
       "description": "Kettles, blenders, microwaves and cookers.",
-      "image": "cat-kitchen-appliances.webp"
+      "image": "https://images.unsplash.com/photo-1776831308461-36a6725e1f98?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjN8fGJsZW5kZXIlMjBraXRjaGVufGVufDF8fHx8MTc5NDQ1NjUzM3ww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "TVs & Audio",
       "slug": "tvs-audio",
       "description": "Televisions, speakers and soundbars.",
-      "image": "cat-tvs-audio.webp"
+      "image": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8c21hcnQlMjB0diUyMGxpdmluZyUyMHJvb218ZW58MXx8fHwxNzk0NDU2NTY5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Lighting",
       "slug": "lighting",
       "description": "Bulbs and lanterns for the home.",
-      "image": "cat-lighting.webp"
+      "image": "https://images.unsplash.com/photo-1556401615-c909c3d67480?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8bGVkJTIwbGlnaHQlMjBidWxifGVufDF8fHx8MTc5NDQ1NjYwN3ww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Power & Cables",
       "slug": "power-cables",
       "description": "Extension boxes, stabilisers and inverters.",
-      "image": "cat-power-cables.webp"
+      "image": "https://images.unsplash.com/photo-1637920951583-ff7221021e21?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjB8fHBvd2VyJTIwc3RyaXAlMjBleHRlbnNpb24lMjBjb3JkfGVufDF8fHx8MTc5NDQ1NjY1N3ww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Home Appliances",
       "slug": "home-appliances",
       "description": "Irons, washing machines and freezers.",
-      "image": "cat-home-appliances.webp"
+      "image": "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8d2FzaGluZyUyMG1hY2hpbmV8ZW58MXx8fHwxNzk0NDU2NjIzfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "banners": [
@@ -133,21 +133,21 @@
       "subtitle": "Inverters, stabilisers and extension boxes at fair prices, with warranty on every item.",
       "cta_text": "Shop power",
       "cta_url": "/category?cat=power-cables",
-      "image": "banner-1.webp"
+      "image": "https://images.unsplash.com/photo-1780445392484-38a4852a1fd8?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8cG93ZXIlMjBpbnZlcnRlcnxlbnwxfHx8fDE3OTQ1MzA1MjV8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "STAY COOL THIS SEASON",
       "subtitle": "Standing fans and air conditioners delivered to your door in Lagos and beyond.",
       "cta_text": "Shop cooling",
       "cta_url": "/category?cat=fans-cooling",
-      "image": "banner-2.webp"
+      "image": "https://images.unsplash.com/photo-1724488751821-1415f5cf4960?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fGFpciUyMGNvbmRpdGlvbmVyfGVufDF8fHx8MTc5NDQ1NjQ5Nnww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "UPGRADE YOUR SITTING ROOM",
       "subtitle": "Smart TVs, soundbars and speakers for movie nights and match days.",
       "cta_text": "Shop TVs and audio",
       "cta_url": "/category?cat=tvs-audio",
-      "image": "banner-3.webp"
+      "image": "https://images.unsplash.com/photo-1650091507687-5ea34d80e674?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fHNtYXJ0JTIwdHYlMjBsaXZpbmclMjByb29tfGVufDF8fHx8MTc5NDQ1NjU2OXww&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "products": [
@@ -215,8 +215,8 @@
         }
       ],
       "images": [
-        "p-voltix-18-inch-standing-fan-1.webp",
-        "p-voltix-18-inch-standing-fan-2.webp"
+        "https://images.unsplash.com/photo-1568392816241-44d223d4d490?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8c3RhbmRpbmclMjBmYW58ZW58MXx8fHwxNzk0NDU2NDc1fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1612549672719-2f1a3908ae31?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fHN0YW5kaW5nJTIwZmFufGVufDF8fHx8MTc5NDQ1NjQ3NXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -276,7 +276,7 @@
         }
       ],
       "images": [
-        "p-aera-16-inch-rechargeable-table-fan-1.webp"
+        "https://images.unsplash.com/photo-1665298455913-dd43714f5ad1?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8c3RhbmRpbmclMjBmYW58ZW58MXx8fHwxNzk0NDU2NDc1fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -343,8 +343,8 @@
         }
       ],
       "images": [
-        "p-kuro-split-air-conditioner-1.webp",
-        "p-kuro-split-air-conditioner-2.webp"
+        "https://images.unsplash.com/photo-1436473849883-bb3464c23e93?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8YWlyJTIwY29uZGl0aW9uZXJ8ZW58MXx8fHwxNzk0NDU2NDk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1762341123870-d706f257a12e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8YWlyJTIwY29uZGl0aW9uZXJ8ZW58MXx8fHwxNzk0NDU2NDk2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -404,7 +404,7 @@
         }
       ],
       "images": [
-        "p-novus-inverter-air-conditioner-1.webp"
+        "https://images.unsplash.com/photo-1759772238012-9d5ad59ae637?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fGFpciUyMGNvbmRpdGlvbmVyfGVufDF8fHx8MTc5NDQ1NjQ5Nnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -471,7 +471,7 @@
         }
       ],
       "images": [
-        "p-brightline-1-8l-electric-kettle-1.webp"
+        "https://images.unsplash.com/photo-1643114786355-ff9e52736eab?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8ZWxlY3RyaWMlMjBrZXR0bGV8ZW58MXx8fHwxNzk0NDU2NTEzfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -531,8 +531,8 @@
         }
       ],
       "images": [
-        "p-kuro-1-5l-glass-blender-1.webp",
-        "p-kuro-1-5l-glass-blender-2.webp"
+        "https://images.unsplash.com/photo-1654179279965-8ff0872d976b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8YmxlbmRlciUyMGtpdGNoZW58ZW58MXx8fHwxNzk0NDU2NTMzfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1780511879762-156c25c75ac2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjJ8fGJsZW5kZXIlMjBraXRjaGVufGVufDF8fHx8MTc5NDQ1NjUzM3ww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -592,7 +592,7 @@
         }
       ],
       "images": [
-        "p-novus-digital-microwave-1.webp"
+        "https://images.unsplash.com/photo-1693786229416-2dd310137f18?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8bWljcm93YXZlJTIwb3ZlbnxlbnwxfHx8fDE3OTQ0NTY1NTJ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -645,7 +645,7 @@
         }
       ],
       "images": [
-        "p-aera-4-burner-standing-gas-cooker-1.webp"
+        "https://images.unsplash.com/photo-1623114112815-74a4b9fe505d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RvdmUlMjBjb29rZXJ8ZW58MXx8fHwxNzk0NDU2Njc1fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -705,8 +705,8 @@
         }
       ],
       "images": [
-        "p-voltix-smart-tv-1.webp",
-        "p-voltix-smart-tv-2.webp"
+        "https://images.unsplash.com/photo-1646861039459-fd9e3aabf3fb?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8c21hcnQlMjB0diUyMGxpdmluZyUyMHJvb218ZW58MXx8fHwxNzk0NDU2NTY5fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1730909352933-614f1673ac21?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjh8fHNtYXJ0JTIwdHYlMjBsaXZpbmclMjByb29tfGVufDF8fHx8MTc5NDQ1NjU2OXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -759,7 +759,7 @@
         }
       ],
       "images": [
-        "p-kuro-32-inch-led-tv-1.webp"
+        "https://images.unsplash.com/photo-1584280795027-321f4d68e77b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NHx8c21hcnQlMjB0diUyMGxpdmluZyUyMHJvb218ZW58MXx8fHwxNzk0NDU2NTY5fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -826,7 +826,7 @@
         }
       ],
       "images": [
-        "p-novus-portable-bluetooth-speaker-1.webp"
+        "https://images.unsplash.com/photo-1518671678551-911467efe539?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTZ8fGJsdWV0b290aCUyMHNwZWFrZXJ8ZW58MXx8fHwxNzk0NDU2NTg2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -886,7 +886,7 @@
         }
       ],
       "images": [
-        "p-brightline-2-1-soundbar-1.webp"
+        "https://images.unsplash.com/photo-1633431577706-595c31e64d50?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8c291bmRiYXJ8ZW58MXwyfHx8MTc5NDUxNzU2NHww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -953,7 +953,7 @@
         }
       ],
       "images": [
-        "p-brightline-led-bulb-1.webp"
+        "https://images.unsplash.com/photo-1532007271951-c487760934ae?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8bGVkJTIwbGlnaHQlMjBidWxifGVufDF8fHx8MTc5NDQ1NjYwN3ww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1006,7 +1006,7 @@
         }
       ],
       "images": [
-        "p-aera-rechargeable-emergency-lantern-1.webp"
+        "https://images.unsplash.com/photo-1719648180073-07106f84cd4d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8bGFudGVybiUyMGxhbXAlMjByZWNoYXJnZWFibGV8ZW58MXx8fHwxNzk0NDU2NzMxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1066,7 +1066,7 @@
         }
       ],
       "images": [
-        "p-voltix-5-way-extension-box-1.webp"
+        "https://images.unsplash.com/photo-1650501386688-41f6d0251875?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8cG93ZXIlMjBzdHJpcCUyMGV4dGVuc2lvbiUyMGNvcmR8ZW58MXx8fHwxNzk0NDU2NjU3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1126,7 +1126,7 @@
         }
       ],
       "images": [
-        "p-kuro-voltage-stabiliser-1.webp"
+        "https://images.unsplash.com/photo-1754734387891-36fcbb96f830?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTN8fHZvbHRhZ2UlMjByZWd1bGF0b3J8ZW58MXx8fHwxNzk0NTMwNjgxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1186,8 +1186,8 @@
         }
       ],
       "images": [
-        "p-novus-home-inverter-1.webp",
-        "p-novus-home-inverter-2.webp"
+        "https://images.unsplash.com/photo-1780445392417-68b9dccc45f2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8cG93ZXIlMjBpbnZlcnRlcnxlbnwxfHx8fDE3OTQ1MzA1MjV8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1676337167385-fa7a8d1eac07?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fHBvd2VyJTIwaW52ZXJ0ZXJ8ZW58MXx8fHwxNzk0NTMwNTI1fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1247,7 +1247,7 @@
         }
       ],
       "images": [
-        "p-aera-steam-iron-1.webp"
+        "https://images.unsplash.com/photo-1489274495757-95c7c837b101?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8Y2xvdGhlcyUyMGlyb258ZW58MXx8fHwxNzk0NDU2NjkyfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1314,8 +1314,8 @@
         }
       ],
       "images": [
-        "p-voltix-top-load-washing-machine-1.webp",
-        "p-voltix-top-load-washing-machine-2.webp"
+        "https://images.unsplash.com/photo-1662220984920-3bd1f88e846f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTJ8fHdhc2hpbmclMjBtYWNoaW5lfGVufDF8fHx8MTc5NDQ1NjYyM3ww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8d2FzaGluZyUyMG1hY2hpbmV8ZW58MXx8fHwxNzk0NDU2NjIzfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     },
     {
@@ -1375,7 +1375,7 @@
         }
       ],
       "images": [
-        "p-novus-chest-freezer-1.webp"
+        "https://images.unsplash.com/photo-1601599967100-f16100982063?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8cmVmcmlnZXJhdG9yJTIwZnJlZXplcnxlbnwxfHx8fDE3OTQ0NTY2NDB8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ]
     }
   ],

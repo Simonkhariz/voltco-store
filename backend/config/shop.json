@@ -9,7 +9,7 @@
     "title": "POWER UP YOUR HOME",
     "subtitle": "Fans, air conditioners, kitchen appliances, TVs and more. Compare the full specifications, pay safely and track your delivery to the door.",
     "cta": "Shop Now",
-    "image": "/images/hero/hero.webp",
+    "image": "https://images.unsplash.com/photo-1740803292374-1b167c1558b1?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fGhvbWUlMjBhcHBsaWFuY2VzfGVufDF8MHx8fDE3OTQ0NTY3NTV8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
     "cutout": false
   },
   "theme": {
@@ -74,7 +74,13 @@
       "Aera",
       "Novus"
     ],
-    "images": {}
+    "images": {
+      "voltix": "https://images.unsplash.com/photo-1595935736128-db1f0a261263?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8c21hcnQlMjB0diUyMGxpdmluZyUyMHJvb218ZW58MXx8fHwxNzk0NDU2NTY5fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "brightline": "https://images.unsplash.com/photo-1594213114663-d94db9b17125?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWMlMjBrZXR0bGV8ZW58MXx8fHwxNzk0NDU2NTEzfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "kuro": "https://images.unsplash.com/photo-1718203862467-c33159fdc504?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8YWlyJTIwY29uZGl0aW9uZXJ8ZW58MXx8fHwxNzk0NDU2NDk2fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "aera": "https://images.unsplash.com/photo-1565151443833-29bf2ba5dd8d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8c3RhbmRpbmclMjBmYW58ZW58MXx8fHwxNzk0NDU2NDc1fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "novus": "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8bWljcm93YXZlJTIwb3ZlbnxlbnwxfHx8fDE3OTQ0NTY1NTJ8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
+    }
   },
   "specs": {
     "label": "Specifications",
